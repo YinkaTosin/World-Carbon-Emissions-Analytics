@@ -72,7 +72,7 @@ This project follows a structured approach to analyze global greenhouse gas emis
 The insights from this project are presented through an interactive Power BI dashboard designed to highlight key patterns in CO₂ emissions, GDP growth, greenhouse gas contributions, and decoupling trends.
 
 Below is the snapshot of the dashboard:
-![Main Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard.JPG)
 Access the **full project files**:
 [Download here](https://drive.google.com/drive/folders/1E9HeWAdfjxZZuJxdUabkKhqrEftt-6Gb?usp=sharing)
 
@@ -82,7 +82,7 @@ Access the **full project files**:
 3.	Energy use drives emissions. A close positive relationship exists between energy consumption and GHG emissions.
 4.	South America records the highest land-use change CO₂ emissions, which are commonly linked to deforestation and land disturbance such as forest fires.
 5.	43 countries show decoupling. Many countries increase GDP while keeping emissions stable or growing more slowly.
-6.	Notable decouplers (Romania, Uzbekistan, Gabon, Poland, Slovakia) show strong GDP growth with much smaller CO₂ increases — useful case studies.
+6.	Notable decouplers (Romania, Uzbekistan, Gabon, Poland, Slovakia) show strong GDP growth with much smaller CO₂ increases; useful case studies.
 7.	2020 is an anomaly due to COVID-19. The dip around 2020 reflects pandemic-related economic slowdowns and temporary emissions reductions, short-term changes around that year should be interpreted with caution.
 ## Conclusion
 This analysis highlights key global emission patterns from 2000 to 2020, showing a 57.81% rise in CO₂ alongside steady economic growth. While emissions remain high overall, 43 countries demonstrate evidence of decoupling, and regional differences especially in land-use change and energy consumption reveal the varied drivers of greenhouse gases worldwide. These insights provide a clear foundation for understanding progress, challenges, and future actions needed to address global emissions.
