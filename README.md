@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# WORLD CARBON EMISSION ANALYSIS
 #   
 ![GHG_Image](GHG_Image.jpg)
 
