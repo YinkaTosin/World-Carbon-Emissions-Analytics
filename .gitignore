@@ -1,0 +1,12 @@
+# Ignore Power BI files (Large)
+*.pbix
+
+#Ignore raw datasets
+*.csv
+*.xlsx
+*.bak
+*.tmp
+
+#Ignore system files
+.DS_Store
+Thumbs.db
