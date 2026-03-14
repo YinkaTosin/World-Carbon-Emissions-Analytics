@@ -72,7 +72,7 @@ This project follows a structured approach to analyze global greenhouse gas emis
 The insights from this project are presented through an interactive Power BI dashboard designed to highlight key patterns in CO₂ emissions, GDP growth, greenhouse gas contributions, and decoupling trends.
 
 Below is the snapshot of the dashboard:
-![img](Dashboard.jpg)
+![Main Dashboard](Dashboard.jpg)
 Access the **full project files**:
 [Download here](https://drive.google.com/drive/folders/1E9HeWAdfjxZZuJxdUabkKhqrEftt-6Gb?usp=sharing)
 
